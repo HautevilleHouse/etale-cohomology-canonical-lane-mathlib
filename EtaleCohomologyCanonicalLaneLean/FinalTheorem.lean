@@ -1,4 +1,4 @@
-import canonicalLaneMathlib.AdmissibleClass
+import EtaleCohomologyCanonicalLaneLean.GateLemmas
 
 namespace HautevilleHouse
 namespace EtaleCohomologyCanonicalLaneLean
