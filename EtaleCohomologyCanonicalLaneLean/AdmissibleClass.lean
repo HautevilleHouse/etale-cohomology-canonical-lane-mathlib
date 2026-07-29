@@ -3,8 +3,6 @@ import canonicalLaneMathlib.AdmissibleClass
 namespace HautevilleHouse
 namespace EtaleCohomologyCanonicalLaneLean
 
-open HautevilleHouse.CanonicalLaneMathlibCore
-
 structure AdmissibleClass where
   object : AdmittedTheoremObject
   endpointSatisfied : Prop
