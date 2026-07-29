@@ -1,7 +1,9 @@
-import EtaleCohomologyCanonicalLaneLean.MathlibObjects
+import canonicalLaneMathlib.AdmissibleClass
 
 namespace HautevilleHouse
 namespace EtaleCohomologyCanonicalLaneLean
+
+open HautevilleHouse.CanonicalLaneMathlibCore
 
 structure AdmissibleClass where
   object : AdmittedTheoremObject

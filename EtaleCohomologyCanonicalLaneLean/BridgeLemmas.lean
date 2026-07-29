@@ -1,4 +1,4 @@
-import EtaleCohomologyCanonicalLaneLean.Projection
+import canonicalLaneMathlib.Projection
 
 namespace HautevilleHouse
 namespace EtaleCohomologyCanonicalLaneLean
